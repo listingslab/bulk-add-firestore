@@ -1,6 +1,9 @@
 {
   "name": "bulk-add-firestore",
   "version": "1.0.0",
+  "scripts": {
+    "start": "clear && node index.js"
+  },
   "main": "index.js",
   "repository": "https://github.com/listingslab/bulk-add-firestore.git",
   "author": "listingslab <listingslab@gmail.com>",
