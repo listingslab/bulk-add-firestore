@@ -4,5 +4,6 @@ layout: default
 
 ## Choose your path, young Padwan
 
-[Work](docs/work) | [Life](docs/life) | [Balance](docs/balance)
-
+- [Firestore](docs/firestore)
+- [Service Account](docs/service_account)
+- [Generators](docs/generators)
